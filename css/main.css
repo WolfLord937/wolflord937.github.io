@@ -1,0 +1,24 @@
+*{
+    margin:0px;
+}
+
+body{
+    background-color:darkviolet;
+
+}
+
+#navbar{
+    background-color: blueviolet;
+    display:flex;
+}
+
+.navitem{
+    background-color: azure;
+    display:block;
+    padding:13px;
+    margin-right:2px;
+}
+
+.navitem:hover{
+    background-color: aquamarine;
+}
